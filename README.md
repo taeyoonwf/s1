@@ -30,4 +30,5 @@
 ### 10월 7일 금요일 문제
   - https://acmicpc.net/problem/2670 (연속부분최대곱)
   - https://acmicpc.net/problem/2602 (돌다리건너기)
+  - https://acmicpc.net/problem/2206 (벽부수고이동하기)
   - https://acmicpc.net/problem/9328 (열쇠)
