@@ -19,10 +19,15 @@
   - https://acmicpc.net/problem/2623 (음악프로그램)
   - https://acmicpc.net/problem/1717 (집합의표현)
 
-### 10월 6일 목요일 문제 (예정)
+### 10월 6일 목요일 문제
   - https://acmicpc.net/problem/4256 (트리)
   - https://acmicpc.net/problem/2250 (트리의높이와너비)
   - https://acmicpc.net/problem/1922 (네트워크연결)
   - https://acmicpc.net/problem/1199 (오일러회로)
-  - https://acmicpc.net/problem/2647 (검은점과하얀점연결)
   - https://acmicpc.net/problem/2135 (문자열압축하기)
+  - https://acmicpc.net/problem/2647 (검은점과하얀점연결)
+
+### 10월 7일 금요일 문제
+  - https://acmicpc.net/problem/2670 (연속부분최대곱)
+  - https://acmicpc.net/problem/2602 (돌다리건너기)
+  - https://acmicpc.net/problem/9328 (열쇠)
