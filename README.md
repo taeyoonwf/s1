@@ -32,3 +32,11 @@
   - https://acmicpc.net/problem/2602 (돌다리건너기)
   - https://acmicpc.net/problem/2206 (벽부수고이동하기)
   - https://acmicpc.net/problem/9328 (열쇠)
+
+### 11월 3일 목요일 문제
+  - https://acmicpc.net/problem/11051 (이항 계수 2)
+  - https://acmicpc.net/problem/2749  (피보나치 수 3)
+  - https://acmicpc.net/problem/10830 (행렬 제곱)
+  - https://acmicpc.net/problem/1158  (조세퍼스 문제)
+  - https://acmicpc.net/problem/11025 (조세퍼스 문제 3)
+  - https://acmicpc.net/problem/1019  (책 페이지)
