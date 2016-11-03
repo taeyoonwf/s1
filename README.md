@@ -40,3 +40,11 @@
   - https://acmicpc.net/problem/1158  (조세퍼스 문제)
   - https://acmicpc.net/problem/11025 (조세퍼스 문제 3)
   - https://acmicpc.net/problem/1019  (책 페이지)
+
+### 11월 4일 금요일 문제
+  - https://acmicpc.net/problem/11727 (2×n 타일링 2)
+  - https://acmicpc.net/problem/1915  (가장 큰 정사각형)
+  - https://acmicpc.net/problem/2167  (2차원 배열의 합)
+  - https://acmicpc.net/problem/2631  (줄세우기)
+  - https://acmicpc.net/problem/2655  (가장높은탑쌓기)
+  - https://acmicpc.net/problem/1019  (책 페이지)
