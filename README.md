@@ -48,3 +48,12 @@
   - https://acmicpc.net/problem/2631  (줄세우기)
   - https://acmicpc.net/problem/2655  (가장높은탑쌓기)
   - https://acmicpc.net/problem/1019  (책 페이지)
+
+### 11월 7일 월요일 문제
+  - https://acmicpc.net/problem/9095  (1, 2, 3 더하기)
+  - https://acmicpc.net/problem/10844 (쉬운 계단 수)
+  - https://acmicpc.net/problem/1019  (책 페이지)
+  - https://acmicpc.net/problem/2156  (포도주 시식)
+  - https://acmicpc.net/problem/2579  (계단 오르기)
+  - https://acmicpc.net/problem/1912  (연속합)
+  - https://acmicpc.net/problem/2670  (연속부분최대곱)
