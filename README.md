@@ -57,3 +57,13 @@
   - https://acmicpc.net/problem/2579  (계단 오르기)
   - https://acmicpc.net/problem/1912  (연속합)
   - https://acmicpc.net/problem/2670  (연속부분최대곱)
+
+### 11월 8일 화요일 문제
+  - https://acmicpc.net/problem/2163  (초콜릿 자르기)
+  - https://acmicpc.net/problem/1562  (계단 수)
+  - https://acmicpc.net/problem/2178  (미로 탐색)
+  - https://acmicpc.net/problem/2206  (벽 부수고 이동하기)
+  - https://acmicpc.net/problem/2251  (물통)
+  - https://acmicpc.net/problem/1938  (통나무 옮기기)
+
+
