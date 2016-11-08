@@ -69,6 +69,7 @@
 ### 11월 9일 수요일 문제
   - https://acmicpc.net/problem/11051 (이항 계수 2)
   - https://acmicpc.net/problem/2655  (가장높은탑쌓기)
-  - https://acmicpc.net/problem/11025 (조세퍼스 문제 3)
   - https://acmicpc.net/problem/1912  (연속합)
+  - https://acmicpc.net/problem/2206  (벽 부수고 이동하기)
+  - https://acmicpc.net/problem/11025 (조세퍼스 문제 3)
   - https://acmicpc.net/problem/1019  (책 페이지)
